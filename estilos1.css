@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+ }
+
+ body{
+    background-image: url(carta1111/fondo.jpg);
+    background-size: cover;
+ }
+ 
+.nav{
+   background-color: black;
+}
+
+.nav a{
+   text-align: center;
+}
+
+.container{
+    text-align: center;
+    color: white;
+    margin-top: 2rem;
+ }
+ 
+ .containerLogo{
+    display: flex;
+    justify-content: center;
+    
+ }
+ 
+ .logo{
+    width: 100%;
+    height: auto;
+ }
+
+ .neon{
+    font-size: 80px;
+    text-shadow: 0 0 5px gold, 0 0 15px gold, 0 0 30px gold, 0 0 50px gold;
+    margin-bottom: 2rem;
+    font-family: 'Neonderthaw', cursive;
+ }
+ .container2{
+    margin-top: 5rem;
+    text-align: center;
+    color: white;
+ }
+ 
+ 
+ .neon2{
+    font-size: 70px;
+    text-shadow: 0 0 5px gold, 0 0 15px gold, 0 0 30px gold, 0 0 50px gold;
+    font-family: 'Neonderthaw', cursive;
+ }
+
+
+ .titulo{
+    text-align: center;
+    font-family: 'Italiana', sans-serif;
+    color: goldenrod;
+    background: rgba(0, 0, 0, .55);
+    border-radius: 60px ;
+    border-color: goldenrod;
+    margin: 8rem 1rem 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
+ }
+ 
+ .elementoTitulo{
+    text-align: center;
+    font-size: 60px;
+ }
+
+ .elementoTitulo2{
+   text-align: center;
+   font-size: 45px;
+}
+ 
+ .listas{
+    text-align: center;
+    font-family: 'Italiana', sans-serif;
+    color: goldenrod;
+    margin-top: 5rem;
+    background: rgba(0, 0, 0, .55);
+    border-radius: 30px ;
+    border-color: goldenrod;
+    font-size: 20px;
+    font-style: italic;
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 3rem 1rem 1rem 1rem;
+ }
+ 
+ .elementoLista{
+    margin-bottom: 2rem;
+ }
+
+
+.logo2{
+   width: 300px;
+   height: 300px;
+}
+
+.logoNav{
+   width: 50px;
+   height: 50px;
+}
